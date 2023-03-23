@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "artfima"]
+	path = artfima
+	url = https://github.com/cran/artfima
+	shallow = true
+	registered = true
+[submodule "Kendall"]
+	path = Kendall
+	url = https://github.com/cran/Kendall
+	shallow = true
+	registered = true
+[submodule "ltsa"]
+	path = ltsa
+	url = https://github.com/cran/ltsa
+	shallow = true
+	registered = true
+[submodule "ptest"]
+	path = ptest
+	url = https://github.com/cran/ptest
+	shallow = true
+	registered = true

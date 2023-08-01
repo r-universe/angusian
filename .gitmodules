@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "artfima"]
-	path = artfima
-	url = https://github.com/cran/artfima
 [submodule "Kendall"]
 	path = Kendall
 	url = https://github.com/cran/Kendall
+[submodule "artfima"]
+	path = artfima
+	url = https://github.com/cran/artfima
 [submodule "ltsa"]
 	path = ltsa
 	url = https://github.com/cran/ltsa

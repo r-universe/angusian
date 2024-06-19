@@ -11,6 +11,3 @@
 [submodule "ltsa"]
 	path = ltsa
 	url = https://github.com/cran/ltsa
-[submodule "ptest"]
-	path = ptest
-	url = https://github.com/cran/ptest
